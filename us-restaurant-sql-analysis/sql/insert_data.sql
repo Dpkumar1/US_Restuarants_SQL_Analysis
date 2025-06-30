@@ -1,0 +1,4 @@
+-- Load your CSV using GUI or tools like pgAdmin / SQLite browser
+-- For PostgreSQL:
+-- \COPY restaurants(name, category, city, state, rating, price_range, review_count)
+-- FROM 'data/us_restaurants.csv' DELIMITER ',' CSV HEADER;
