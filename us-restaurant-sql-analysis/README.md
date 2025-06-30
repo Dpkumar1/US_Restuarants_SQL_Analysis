@@ -1,4 +1,4 @@
-# 🇺🇸 US Restaurant SQL Analysis Project
+# US Restaurants -- SQL Analysis Project
 
 This SQL project analyzes restaurant data across the USA using a dataset from Kaggle. It helps explore location-based trends, average ratings by category, and pricing behavior.
 
